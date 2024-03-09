@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20240309-zerofltexx-v9.14.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/zerofltexx/9.x/crDroidAndroid-13.0-20240309-zerofltexx-v9.14.zip/download",
+			"timestamp": 1709991190,
+			"md5": "22108c60dc6a7d0b0b76a4a259e44b10",
+			"sha256": "57f057cf98baf0dbd320ceef38a178700df6fe71492c344f6bd437c89086a0be",
+			"size": 867674000,
+			"version": "9.14",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
