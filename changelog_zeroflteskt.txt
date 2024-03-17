@@ -1,0 +1,19 @@
+====================
+     03-17-2024
+====================
+  * Update to crDroid 9.15
+  * Fixed OTA support. Do note that fakemanoan's TWRP is required for OTA.
+  * Fixed installation issues on Canadian and T-Mobile devices
+
+====================
+     02-10-2024
+====================
+  * Sync crDroid sources, updating to the February 2024 security patches.
+  * Add OTA support. Do note that fakemanoan's TWRP is required for OTA.
+  * Fixed non-functional camera
+  * Minor bug fixes relating to graphics
+
+====================
+     01-12-2024
+====================
+   * Initial release

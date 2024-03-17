@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Lost-Entrepreneur439",
+			"oem": "Samsung",
+			"device": "Galaxy S6 Edge",
+			"filename": "crDroidAndroid-13.0-20240317-zeroltexx-v9.15.zip",
+			"download": "https://github.com/Lost-Entrepreneur439/exynos7420-releases/releases/download/9.15/crDroidAndroid-13.0-20240317-zeroltexx-v9.15.zip",
+			"timestamp": 1710689571,
+			"md5": "bda4d8070304bf65750f2c637e1cce84",
+			"sha256": "3d3de019633346df570bba12b127a92e0dccb4183f5306545da50ba5bf370a12",
+			"size": 867393234,
+			"version": "9.15",
+			"buildtype": "Monthly",
+			"forum": "https://xdaforums.com/t/rom-unofficial-13-0-crdroid-9-for-samsung-galaxy-s6.4650597",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/fakemanoan/TWRP-Releases/releases/download/TWRP_3.7.0-9.0_19012024/TWRP_3.7.0-9.0_zerolte_19012024.img",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/samsungexynos7420/android_device_samsung_zeroltexx",
+			"common-dt": "https://github.com/samsungexynos7420/android_device_samsung_universal7420-common",
+			"kernel": "https://github.com/samsungexynos7420/android_kernel_samsung_universal7420"
+		}
+	]
+}

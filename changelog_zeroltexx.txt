@@ -1,0 +1,11 @@
+====================
+     03-17-2024
+====================
+  * Update to crDroid 9.15
+  * Fixed OTA support. Do note that fakemanoan's TWRP is required for OTA.
+  * Fix installation problems on Canadian and T-Mobile devices
+
+====================
+     02-10-2024
+====================
+  * Initial S6 Edge release
