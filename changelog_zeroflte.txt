@@ -3,7 +3,28 @@ Build type: Monthly
 Device: Samsung Galaxy S6 (zerofltexx)
 Device maintainer: Ivy (Lost-Entrepreneur439)
 
-===== 10-06-2024 ====
+===== 06-08-2025 =====
+- Update to unofficial crDroid 9.28
+- Fix IR Blaster
+- Fix all sensors
+- Significant performance improvements
+
+===== 05-10-2025 =====
+- Update to unofficial crDroid 9.27
+- Add experimental OTA support
+
+===== 02-16-2025 =====
+ - Update to unofficial crDroid 9.25
+
+===== 02-06-2025 =====
+- Update to unofficial crDroid 9.23 (officially, crDroid has stopped supporting crDroid 9)
+- universal7420: Inherit non_ab_device.mk
+- Kernel now has BPF support
+- Removed a number of 7420-patches that were un-needed
+- Automatic translation import
+- Introduce crDroid recovery
+
+===== 10-06-2024 =====
 - ROM IS BACK! Updated to crDroid 9.20
 - Builds are now signed for play integrity.
 
