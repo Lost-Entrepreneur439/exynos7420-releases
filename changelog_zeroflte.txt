@@ -3,6 +3,9 @@ Build type: Monthly
 Device: Samsung Galaxy S6 (zerofltexx)
 Device maintainer: Ivy (Lost-Entrepreneur439)
 
+===== 06-13-2023 =====
+- Update to unofficial crDroid 9.29
+
 ===== 06-08-2025 =====
 - Update to unofficial crDroid 9.28
 - Fix IR Blaster
