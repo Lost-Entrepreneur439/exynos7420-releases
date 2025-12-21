@@ -3,6 +3,16 @@ Build type: Monthly
 Device: Samsung Galaxy S6 (zerofltexx)
 Device maintainer: Ivy (Lost-Entrepreneur439)
 
+===== 12-20-2025 =====
+- Update to crDroid 9.33
+- Switch to unified branches, bringing in fakeman's new changes from his Lineage 20 builds.
+- Discontinue recovery, switch to TWRP.
+
+===== 08-31-2023 =====
+- Update to unofficial crDroid 9.30
+- Switch to BPFv2 kernel
+- Re-introduce S6 Edge support (S6 Edge+ and Note5 are still not supported at this time)
+
 ===== 06-13-2023 =====
 - Update to unofficial crDroid 9.29
 

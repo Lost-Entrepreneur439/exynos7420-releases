@@ -1,0 +1,7 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy S6 Edge+ (zenlte)
+Device maintainer: Ivy (Lost-Entrepreneur439)
+
+===== 12-20-2025 =====
+- Initial release for S6 Edge+

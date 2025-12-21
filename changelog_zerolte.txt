@@ -1,11 +1,12 @@
-====================
-     03-17-2024
-====================
-  * Update to crDroid 9.15
-  * Fixed OTA support. Do note that fakemanoan's TWRP is required for OTA.
-  * Fix installation problems on Canadian and T-Mobile devices
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy S6 Edge (zeroltexx)
+Device maintainer: Ivy (Lost-Entrepreneur439)
 
-====================
-     02-10-2024
-====================
-  * Initial S6 Edge release
+===== 12-20-2025 =====
+- Update to crDroid 9.33
+- Switch to unified branches, bringing in fakeman's new changes from his Lineage 20 builds.
+- Discontinue recovery, switch to TWRP.
+
+===== 08-31-2023 =====
+- Initial release for S6 Edge
