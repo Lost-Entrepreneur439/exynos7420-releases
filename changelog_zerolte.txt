@@ -3,6 +3,9 @@ Build type: Monthly
 Device: Samsung Galaxy S6 Edge (zeroltexx)
 Device maintainer: Ivy (Lost-Entrepreneur439)
 
+===== 12-22-2025 =====
+- Update to crDroid 9.34
+
 ===== 12-20-2025 =====
 - Update to crDroid 9.33
 - Switch to unified branches, bringing in fakeman's new changes from his Lineage 20 builds.
